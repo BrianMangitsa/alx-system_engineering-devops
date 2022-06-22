@@ -1,2 +1,2 @@
 #!/bin/bash ln
-shell besics
+shell basics
