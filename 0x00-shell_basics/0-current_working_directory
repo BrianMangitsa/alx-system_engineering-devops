@@ -1,2 +1,2 @@
 #!/bin/bash ln
-This is my current directory file
+pwd
