@@ -1,2 +1,2 @@
-#!/bin/bash ln
-shell basics
+#!/bin/bash
+file permission
