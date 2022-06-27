@@ -1,2 +1,2 @@
 vi 0-hello_world
-echo>Hello, World
+echo "Hello, World"
