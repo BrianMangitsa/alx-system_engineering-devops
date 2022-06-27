@@ -1,3 +1,2 @@
 vi 0-hello_world
-
-cat>Hello, World
+echo>Hello, World
